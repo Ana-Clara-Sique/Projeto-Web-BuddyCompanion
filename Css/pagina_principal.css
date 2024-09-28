@@ -33,13 +33,44 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
+
+header {
+  background-color:gray;
+  padding: 10px 50px;
+  width: 100%;
+  margin-top: -35px;
+  margin-left: -20px;
+}
+
+footer {
+  background-color:gray;
+  color:#D9D9D9;
+  padding: 10px 50px;
+  text-align: center;
+  width:100%;
+  margin-bottom: -35px;
+  margin-left: -20px;
+}
+
+
+
+
+
+
+
+
+
+
+
 .menu-superior {
  display:flex;
  justify-content: space-between;
  align-items: center;
  background-color: #B4b3df;
  color: aqua;
- padding: 10px;
+ padding: 8px;
 
 }
 
